@@ -7,7 +7,10 @@
 
 - 📫 How to reach me **vsathya427@gmail.com**
 
+-  ☕️ is my ❤️
+
 - ⚡ Fun fact **I have Dermatographism**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

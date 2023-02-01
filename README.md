@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vsathya19" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" alt="v-sathya-5674031a3" height="40" width="40" /></a>
-<a href="https://instagram.com/v.sathya19" target="blank"><img align="center" src="https://logo-logos.com/wp-content/uploads/2016/10/Instagram_icon.png" alt="v.sathya19" height="40" width="40" /></a>
+<a href="https://instagram.com/v.sathya19" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="v.sathya19" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

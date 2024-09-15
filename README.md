@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathya</h1>
-<h3 align="center">A student from VIT-AP enthusiastic about ML.</h3>
+<h3 align="center">I'm currently pursuing my Master's from SUNY at Binghamton.</h3>
 
-- 🌱 I’m exploring **ML**
+- 🌱 I’m exploring **Software Engineering**
 
 - 👨‍💻 All of my projects are available at [vsathya427.github.io](vsathya427.github.io)
 

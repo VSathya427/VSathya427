@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sathya</h1>
-<h3 align="center">I'm currently pursuing my Master's from SUNY at Binghamton.</h3>
+<h3 align="center">I'm a recent graduate with a Master in CS from Binghamton University - SUNY.</h3>
 
 - 🌱 I’m exploring **Software Engineering**
 
-- 👨‍💻 All of my projects are available at [vsathya427.github.io](vsathya427.github.io)
+- 👨‍💻 All of my projects are available at [vsathya427.github.io](https://vsathya427.github.io/)
 
 - 📫 How to reach me **vsathya427@gmail.com**
 
